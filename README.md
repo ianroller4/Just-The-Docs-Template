@@ -11,10 +11,10 @@
 - Resolving Merge Conflict
 
 ### Hilandrei
-- The Git Life Cycle
-- Stashing
-- Tags
-- The How and Why of Team Git Workflow
+- The Git Life Cycle - Due: Sept 29
+- Stashing - Due: Sept 27
+- Tags - Due: Sept 28
+- The How and Why of Team Git Workflow - Due: Sept 30
 
 # Doing
 - The role of version control in software development (Due Sep 28)
