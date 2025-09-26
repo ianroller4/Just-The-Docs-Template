@@ -1,11 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Team 3 - Git Wiki
+description: A documentation resource for Git fundamentals
 theme: just-the-docs
 
-url: https://StungEye-RRC.github.io/Just-The-Docs-Template
+url: https://ianroller4.github.io/Just-The-Docs-Template
 
 aux_links:
-  Template Repository: https://github.com/StungEye-RRC/Just-The-Docs-Template
+  Template Repository: https://github.com/ianroller4/Just-The-Docs-Template
 
 sass: # Added to silence a number of warning triggered during the build process.
   quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
