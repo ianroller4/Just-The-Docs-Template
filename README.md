@@ -17,5 +17,5 @@
 - The How and Why of Team Git Workflow
 
 # Doing
-- The role of version control in software development (Due Sep 28)
+- The role of version control in software development (Started Sep 26)(Due Sep 28) - Morgan
 # Done
