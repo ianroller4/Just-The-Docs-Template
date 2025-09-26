@@ -1,9 +1,9 @@
 # To-Do
 ### Morgan
-- The role of version control in software development
-- Git Fundamentals
-- Creating, Using, and Merging Branches
-- Remote Repositories
+
+- Git Fundamentals (Due Sep 29)
+- Creating, Using, and Merging Branches (Due Sep 30)
+- Remote Repositories (Due Oct 1)
 
 ### Ian
 - What is Git (pros and cons)
@@ -15,6 +15,7 @@
 - Stashing
 - Tags
 - The How and Why of Team Git Workflow
-# Doing
 
+# Doing
+- The role of version control in software development (Due Sep 28)
 # Done
