@@ -19,11 +19,12 @@
 
 | Task                                  | Team Member | Due Date     | Started Date | Finished Date |
 |---------------------------------------|-------------|--------------|--------------|---------------|
-| Role of Version Control               | Morgan      | September 28 | September 26 |               |
-| Undoing in Git                        | Ian         | September 28 | September 26 |               |
-| Stashing                              | Hilandrei   | September 27 | September 26 |               |
+
 
 # Done
 
 | Task                                  | Team Member | Due Date     | Started Date | Finished Date |
 |---------------------------------------|-------------|--------------|--------------|---------------|
+| Role of Version Control               | Morgan      | September 28 | September 26 | September 27  |
+| Undoing in Git                        | Ian         | September 28 | September 26 | September 27  |
+| Stashing                              | Hilandrei   | September 27 | September 26 | September 27  |
