@@ -1,26 +1,29 @@
 # To-Do
 
-### Morgan
 
-* Git Fundamentals (Due Sep 29)
-* Creating, Using, and Merging Branches (Due Sep 30)
-* Remote Repositories (Due Oct 1)
-
-### Ian
-
-* What is Git (pros and cons)
-* Undoing in Git
-* Resolving Merge Conflict
-
-### Hilandrei
-
-* The Git Life Cycle - Due: Sept 29
-* Tags - Due: Sept 28
-* The How and Why of Team Git Workflow - Due: Sept 30
+| Task                                  | Team Member | Due Date     | Started Date | Finished Date |
+|---------------------------------------|-------------|--------------|--------------|---------------|
+| Role of Version Control               | Morgan      | September 28 | September 26 |               |
+| What is Git                           | Ian         | September 29 |              |               |
+| The Git Life Cycle                    | Hilandrei   | September 29 |              |               |
+| Git Fundamentals                      | Morgan      | September 29 |              |               |
+| Undoing in Git                        | Ian         | September 28 | September 26 |               |
+| Creating, Using, and Merging Branches | Morgan      | September 30 |              |               |
+| Resolving Merge Conflict              | Ian         | September 30 |              |               |
+| Stashing                              | Hilandrei   | September 27 | September 26 |               |
+| Tags                                  | Hilandrei   | September 28 |              |               |
+| Remote Repositories                   | Morgan      | October 1    |              |               |
+| The How and Why of Team Git Workflow  | Hilandrei   | September 30 |              |               |
 
 # Doing
-- The role of version control in software development (Started Sep 26)(Due Sep 28) - Morgan
-* Stashing - Hilandrei - Started: Sept 26
+
+| Task                                  | Team Member | Due Date     | Started Date | Finished Date |
+|---------------------------------------|-------------|--------------|--------------|---------------|
+| Role of Version Control               | Morgan      | September 28 | September 26 |               |
+| Undoing in Git                        | Ian         | September 28 | September 26 |               |
+| Stashing                              | Hilandrei   | September 27 | September 26 |               |
 
 # Done
 
+| Task                                  | Team Member | Due Date     | Started Date | Finished Date |
+|---------------------------------------|-------------|--------------|--------------|---------------|
