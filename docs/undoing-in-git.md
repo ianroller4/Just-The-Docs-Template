@@ -8,9 +8,26 @@ nav_order: 4
 
 There are four main ways of undoing changes in Git. These are, `checkout`, `reset`, `revert`, and `clean`. This page will describe each method, how to use it, and when to use it.
 
+## Table of Contents
+
+1. [Checkout](#checkout)
+    - [How To Use](#how-to-use)
+    - [When To Use](#when-to-use)
+2. [Reset](#reset)
+    - [How To Use](#how-to-use-1)
+    - [When To Use](#when-to-use-1)
+3. [Revert](#revert)
+    - [How To Use](#how-to-use-2)
+    - [When To Use](#when-to-use-2)
+4. [Clean](#clean)
+    - [How To Use](#how-to-use-3)
+    - [When To Use](#when-to-use-3)
+
 ## Checkout
 
 `checkout` is the simplist type of private undoing in Git. Using `checkout` will discard any uncommited changes you have made locally on your computer.
+
+For more information visit [Git Checkout](https://git-scm.com/docs/git-checkout)
 
 ### How to Use
 
@@ -52,6 +69,8 @@ Or to revert all files to the most recent commit:
 
 > **Note:** The result of `soft reset` is a little weird.
 
+For more information visit [Git Reset](https://git-scm.com/docs/git-reset)
+
 ### How to Use
 
 To use `hard reset`, in the command terminal in the working folder enter:
@@ -82,6 +101,8 @@ To use `soft reset`, in the command terminal in the working folder enter:
 
 `revert` is the safest choice when undoing as reverting maintains commit history.
 
+For more information visit [Git Revert](https://git-scm.com/docs/git-revert)
+
 ### How to Use
 
 To use `revert`, in the command terminal in the working folder enter:
@@ -96,6 +117,8 @@ To use `revert`, in the command terminal in the working folder enter:
 ## Clean
 
 Where other undoing commands in Git deal with files that are tracked with version control, `clean` deals with files that are not tracked.
+
+For more information visit [Git Clean](https://git-scm.com/docs/git-clean)
 
 ### How to Use
 
