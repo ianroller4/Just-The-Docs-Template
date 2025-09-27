@@ -43,7 +43,7 @@ Or to revert all files to the most recent commit:
 
 ## Reset
 
-`reset` can be used to undo one or more commits in our **local** repository.
+`reset` can be used to undo one or more commits in your **local** repository.
 
 `reset` has two different ways to undo.
 
