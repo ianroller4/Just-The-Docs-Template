@@ -11,7 +11,6 @@
 | Creating, Using, and Merging Branches | Morgan      | September 30 |              |               |
 | Resolving Merge Conflict              | Ian         | September 30 |              |               |
 | Stashing                              | Hilandrei   | September 27 | September 26 |               |
-| Tags                                  | Hilandrei   | September 28 |              |               |
 | Remote Repositories                   | Morgan      | October 1    |              |               |
 | The How and Why of Team Git Workflow  | Hilandrei   | September 30 |              |               |
 
@@ -19,11 +18,12 @@
 
 | Task                                  | Team Member | Due Date     | Started Date | Finished Date |
 |---------------------------------------|-------------|--------------|--------------|---------------|
-| Role of Version Control               | Morgan      | September 28 | September 26 |               |
-| Undoing in Git                        | Ian         | September 28 | September 26 |               |
-| Stashing                              | Hilandrei   | September 27 | September 26 |               |
+| Tags                                  | Hilandrei   | September 28 | September 27 |               |
 
 # Done
 
 | Task                                  | Team Member | Due Date     | Started Date | Finished Date |
 |---------------------------------------|-------------|--------------|--------------|---------------|
+| Role of Version Control               | Morgan      | September 28 | September 26 | September 27  |
+| Undoing in Git                        | Ian         | September 28 | September 26 | September 27  |
+| Stashing                              | Hilandrei   | September 27 | September 26 | September 27  |
