@@ -192,6 +192,8 @@ Here are a few reasons for you not to use Git:
 ### Morgan Klassen
 
 ### Ian Roller
+Current student at RRC Polytech in the Game Development Programming program. Graduated from the University of Manitoba with a degree in Computer Engineering in 2023. Currently learning to write and draw. Likes basketball, reading, and video games.
+
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
