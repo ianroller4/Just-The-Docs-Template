@@ -6,13 +6,13 @@ nav\_order: 2
 
 <!-- prettier-ignore-start -->
 # The Git Life Cycle
-This page will cover the life cycle of git, the stages a file will go through in when working with git and relavent commands to the git cycle.
+This page will cover the life cycle of git, the stages a file will go through in when working with git and relevant commands to the git cycle.
 
 ### Table of Contents
 {: .no_toc }
 
 1. [States of Files in The Git Life Cycle](##States-of-Files-in-The-Git-Life-Cycle)   
-2. [Relavent Commands](##Relavent-Commands)  
+2. [Relevant Commands](##Relevant-Commands)  
 3. [Additional Information Resources](##Additional-Information-Resources)  
 
 {:toc}
@@ -21,7 +21,7 @@ This page will cover the life cycle of git, the stages a file will go through in
 
 
 ## States of Files in The Git Life Cycle
-There two states of a file in your working directory, they can either be untracked or tracked. A tracked file means it was included in the latest commit within Git. A tracked file can be either unmodifed, modified, or staged.
+There are two possible states a file in your working directory can be, tracked or untracked. A tracked file means it was included in the latest commit within Git. A tracked file can be either unmodifed, modified, or staged.
 
 As you edit files, Git sees them as modified, because you’ve changed them since your last commit. As you work, you selectively stage these modified files and then commit all those staged changes, and the cycle repeats.
 
@@ -43,7 +43,7 @@ A tracked file that was within your last commit and has been modified but not st
 
 An untracked or modified file that has been staged is ready to be commited to the repo.
 
-## Relavent Commands
+## Relevant Commands
 __Show Status:__ To check the status of the working directory for changes or additions, use:
 
 ```console
