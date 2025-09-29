@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Git Life Cycle
-nav\_order: 2
+nav_order: 2
 ---
 
 <!-- prettier-ignore-start -->
