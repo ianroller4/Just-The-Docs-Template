@@ -10,7 +10,6 @@
 
 | Task                                  | Team Member | Due Date     | Started Date | Finished Date |
 |---------------------------------------|-------------|--------------|--------------|---------------|
-| The How and Why of Team Git Workflow  | Hilandrei   | September 30 | September 29 |               |
 
 
 # Done
@@ -24,3 +23,4 @@
 | Resolving Merge Conflict              | Ian         | September 30 | September 28 | September 28  |
 | Tags                                  | Hilandrei   | September 28 | September 27 | September 28  |
 | The Git Life Cycle                    | Hilandrei   | September 29 | September 28 | September 29  |
+| The How and Why of Team Git Workflow  | Hilandrei   | September 30 | September 29 | September 30  |
