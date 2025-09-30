@@ -188,6 +188,7 @@ Here are a few reasons for you not to use Git:
 ## Contributor Biographies
 
 ### Hilandrei Caligagan 
+Currently a student within RRC Polytech, learning Programming for Game Development and has completed the Sisler Create program prior to enrolling. Hobbies include playing many variety of games, reading and watching shows. A current obsession is card games and has spent way too much on them and card related peripherals. The main goal in the future is to become a successful game developer.
 
 ### Morgan Klassen
 
