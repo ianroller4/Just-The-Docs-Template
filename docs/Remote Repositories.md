@@ -1,3 +1,9 @@
+---
+layout: default
+title: Remote Repositories
+nav_order: 9
+---
+
 # Remote Repositories in Git
 
 Remote repositories in Git are versions of your project that are hosted
