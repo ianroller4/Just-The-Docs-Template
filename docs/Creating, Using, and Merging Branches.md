@@ -1,3 +1,9 @@
+---
+layout: default
+title: Creating, Using, and Merging Branches
+nav_order: 5
+---
+
 # Git Branching Guide
 
 Git branches are a powerful feature that allow developers to work on separate lines of development without interfering with the main project. Branching makes it easier to experiment, fix bugs, and collaborate on new features.
