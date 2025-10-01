@@ -4,23 +4,17 @@ title: Tags
 nav_order: 8
 ---
 
-<!-- prettier-ignore-start -->
 # Tags
 This page will cover tags in git, including what they are, how to use them and helpful commands to know when using tags in git.
 
 
 ### Table of Contents
-{: .no_toc }
 
-1. [What are Tags in Git?](What-are-Tags-in-Git?)  
-2. [Creating Tags](Creating-Tags)   
-3. [Annotated Tags](Annotated-Tags)  
-4. [Once You've Created a Tag](Once-You've-Created-a-Tag)  
-5. [Additional Information Resources](##Additional-Information-Resources)  
-
-{:toc}
-
-<!--prettier-ignore-end-->
+1. [What are Tags in Git?](#What-are-Tags-in-Git?)  
+2. [Creating Tags](#Creating-Tags)   
+3. [Annotated Tags](#Annotated-Tags)  
+4. [Once You've Created a Tag](#Once-You've-Created-a-Tag)  
+5. [Additional Information Resources](#Additional-Information-Resources)  
 
 
 ## What are Tags in Git?
