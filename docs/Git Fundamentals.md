@@ -96,7 +96,6 @@ adding `-b` to `checkout` creates a new branch.
 
 Merging brings changes together.
 
-Rebasing can be used for a linear history.
 
 ## Remotes and Pushing
 ```bash
