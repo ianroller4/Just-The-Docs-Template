@@ -25,8 +25,9 @@ git config --global user.name "Your Name"
 git config --global user.email "you@example.com"
 git config --list
 ```
-The --global flag applies the settings to all repositories for the current user.
-To set configuration only for the repository you are currently in, omit the --global flag.
+The `--global` flag applies the settings to all repositories for the current user.
+
+To set configuration only for the repository you are currently in, omit the `--global` flag.
 
 ## Initializing a Repo 
 
@@ -38,9 +39,9 @@ A repository (repo) is where Git stores your project history.
 git init
 git clone <repository_url>
 ```
-git init turns an existing directory into a Git repository by creating a .git folder.
+`git init` turns an existing directory into a Git repository by creating a .git folder.
 
-git clone copies a remote repository to your local machine and sets up origin as the default remote.
+`git clone` copies a remote repository to your local machine and sets up origin as the default remote.
 
 ## Staging and Commit Files
 Git tracks changes through a two-step process: staging and committing.
@@ -52,13 +53,15 @@ git add filename.txt
 git add .
 git commit -m "Describe what changed"
 ```
-You can add specific files or file types
+You can add specific files or file types.
 
-git add . adds all unstaged files
+`git add .` adds all unstaged files.
 
 Staging prepares changes to be committed.
 
-Commit saves the staged snapshot into the repository history.
+`git commit` saves the staged snapshot into the repository history.
+
+Adding `-m` to `git commit` lets you add a commit message.
 
 ## Status, Log, and Diff
 Useful commands to inspect repository state and history:
@@ -71,11 +74,11 @@ git diff
 git diff --staged
 git status 
 ```
-git log shows commit history. Options like --oneline, --graph, and --decorate give a more compact view.
+`git log` shows commit history. Options like `--oneline`, `--graph`, and `--decorate` give a more compact view.
 
-git diff shows changes in files that have not yet been committed.
+`git diff` shows changes in files that have not yet been committed.
 
-git status shows unstaged, staged, and untracked files. Also tells you what branch you are working in.
+`git status` shows unstaged, staged, and untracked files. Also tells you what branch you are working in.
 
 ## Working with Branches
 ```bash
@@ -87,9 +90,9 @@ git branch -d feature/awesome
 ```
 Branches let you work on separate lines of development.
 
-git checkout takes your current unstaged files and brings them to a different branch
+`git checkout` takes your current unstaged files and brings them to a different branch.
 
-adding -b to checkout creates a new branch
+adding `-b` to `checkout` creates a new branch.
 
 Merging brings changes together.
 
@@ -104,19 +107,22 @@ git pull
 ```
 Remotes let you share your repository with others.
 
-git remote -v gives info on the remote repo
+`git remote -v` gives info on the remote repo.
 
-git remote add connects a remote repo to your repo
+`git remote` add connects a remote repo to your repo.
 
-git push sends your latest commit to the remote repo in order to make a pull request
+`git push` sends your latest commit to the remote repo in order to make a pull request.
 
-The -u flag sets upstream so you can use git push and git pull without specifying remote and branch.
+The `-u` flag sets upstream so you can use `git push` and `git pull` without specifying remote and branch.
 
-git pull grabs the latest changes to the remote repo and applies them to your local one
+`git pull` grabs the latest changes to the remote repo and applies them to your local one.
 
 ## Using a .gitignore File
-The .gitignore file tells Git which files and directories to ignore. It can be edited like a .txt file and every line is a file that git will ignore.
-You can tell it to ignore entire folders, all files of a type (.txt, .log, etc), or specific files
+The .gitignore file tells Git which files and directories to ignore. 
+
+It can be edited like a .txt file and every line is a file that git will ignore.
+
+You can tell it to ignore entire folders, all files of a type (.txt, .log, etc), or specific files.
 
 Example:
 
@@ -128,27 +134,25 @@ node_modules/*.log  (This would ignore all .log files in the node_modules folder
 ```
 This prevents unwanted files (build outputs, OS-specific files) from being tracked.
 
-Tracked files must be removed with git rm --cached to actually be ignored afterward.
+Tracked files must be removed with `git rm --cached` to actually be ignored afterward.
 
 ## Summary
 
-Configure Git with your name and email (git config).
+Configure Git with your name and email (`git config`).
 
-Initialize or clone repositories (git init, git clone).
+Initialize or clone repositories (`git init`, `git clone`).
 
-Stage changes with git add, commit them with git commit.
+Stage changes with `git add`, commit them with `git commit`.
 
-Inspect state with git status, git log, and git diff.
+Inspect state with `git status`, `git log`, and `git diff`.
 
-Manage branches with git branch, git checkout -b, git merge, git branch -d.
+Manage branches with `git branch`, `git checkout -b`, `git merge` and `git branch -d`.
 
-Work with remotes using git remote -v, git push, git pull, git fetch.
+Work with remotes using `git remote -v`, `git push`, `git pull`, and `git fetch`.
 
-Undo mistakes with git restore, git reset, git revert.
+View differences and history with `git log`, `--oneline`, `--graph,` and `--decorate`.
 
-View differences and history with git log --oneline --graph --decorate.
-
-Use .gitignore to exclude unnecessary files.
+Use a .gitignore file to exclude unnecessary files.
 
 ## Learn More
 - [Official Git Documentation](https://git-scm.com/doc)  
