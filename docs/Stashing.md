@@ -1,9 +1,7 @@
 ---
-
+layout: default
 title: Stashing Changes
-
-nav\_order: 7
-
+nav_order: 7
 ---
 
 <!-- prettier-ignore-start -->
