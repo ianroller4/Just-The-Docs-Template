@@ -191,6 +191,7 @@ Here are a few reasons for you not to use Git:
 Currently a student within RRC Polytech, learning Programming for Game Development and has completed the Sisler Create program prior to enrolling. Hobbies include playing many variety of games, reading and watching shows. A current obsession is card games and has spent way too much on them and card related peripherals. The main goal in the future is to become a successful game developer.
 
 ### Morgan Klassen
+Current student of RRC Polytech, enrolled in the Game Development - Programming course. I'm a highschool graduate and an intermediate level programmer. I want to learn how to develop and program games professionally. Some of my hobbies include playing video games, reading manga, and playing bass guitar.
 
 ### Ian Roller
 Current student at RRC Polytech in the Game Development Programming program. Graduated from the University of Manitoba with a degree in Computer Engineering in 2023. Currently learning to write and draw. Likes basketball, reading, and video games.
