@@ -1,3 +1,9 @@
+---
+layout: default
+title: Git Fundamentals
+nav_order: 3
+---
+
 # Git Fundamentals
 
 Git is a distributed version control system that allows developers to track changes in their code, collaborate with others, and maintain a history of their projects. This page covers the essential fundamentals of Git.
