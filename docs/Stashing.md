@@ -18,11 +18,11 @@ It allows the kid to instantly clean their room, and when they want to play agai
 ### Table of Contents
 {: .no_toc }
 
-1. [When to use Stashing?](##When-to-use-Stashing?)  
-2. [Stashing in action](##Stashing-in-action)   
-3. [Restoring Stashed Changes](##Restoring-Stashed-Changes)  
-4. [Other Helpful Stash Commands](##Other-Helpful-Stash-Commands)  
-5. [Additional Information Resources](##Additional-Information-Resources)  
+1. [When to use Stashing?](#when-to-use-stashing?)  
+2. [Stashing in action](#stashing-in-action)   
+3. [Restoring Stashed Changes](#restoring-stashed-changes)  
+4. [Other Helpful Stash Commands](#other-helpful-stash-commands)  
+5. [Additional Information Resources](#additional-information-resources)  
 
 {:toc}
 
