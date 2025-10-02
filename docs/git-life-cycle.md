@@ -11,9 +11,9 @@ This page will cover the life cycle of git, the stages a file will go through in
 ### Table of Contents
 {: .no_toc }
 
-1. [States of Files in The Git Life Cycle](##States-of-Files-in-The-Git-Life-Cycle)   
-2. [Relevant Commands](##Relevant-Commands)  
-3. [Additional Information Resources](##Additional-Information-Resources)  
+1. [States of Files in The Git Life Cycle](#states-of-files-in-the-git-cife-cycle)   
+2. [Relevant Commands](#relevant-commands)  
+3. [Additional Information Resources](#additional-information-resources)
 
 {:toc}
 

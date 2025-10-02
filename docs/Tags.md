@@ -10,11 +10,11 @@ This page will cover tags in git, including what they are, how to use them and h
 
 ### Table of Contents
 
-1. [What are Tags in Git?](#What-are-Tags-in-Git?)  
-2. [Creating Tags](#Creating-Tags)   
-3. [Annotated Tags](#Annotated-Tags)  
-4. [Once You've Created a Tag](#Once-You've-Created-a-Tag)  
-5. [Additional Information Resources](#Additional-Information-Resources)  
+1. [What are Tags in Git?](#what-are-tags-in-git?)  
+2. [Creating Tags](#creating-tags)   
+3. [Annotated Tags](#annotated-tags)  
+4. [Other Tag Commands](#other-tag-commands)  
+5. [Additional Information Resources](#additional-information-resources)  
 
 
 ## What are Tags in Git?

@@ -11,14 +11,14 @@ This page will cover working together in a team through git. This page will cove
 ### Table of Contents
 {: .no_toc }
 
-1. [Overview of Git Workflows](##Overview-of-Git-Workflows)  
-2. [Centralized Workflow](##Centralized-Workflow)   
-    - [How The Centralized Workflow Works](###How-The-Centralized-Workflow-Works)
-3. [Feature Branch Workflow](##Feature-Branch-Workflow)  
-    - [How The Feature Branch Workflow Works](###How-The-Feature-Branch-Workflow-Works)
-4. [Forking Workflow](##Forking-Workflow)
-    - [How The Forking Workflow Works](###How-The-Forking-Workflow-Works)
-5. [Additional Information Resources](##Additional-Information-Resources)  
+1. [Overview of Git Workflows](#overview-of-git-workflows)  
+2. [Centralized Workflow](#centralized-workflow)   
+    - [How The Centralized Workflow Works](#how-the-centralized-workflow-works)
+3. [Feature Branch Workflow](#feature-branch-workflow)  
+    - [How The Feature Branch Workflow Works](#how-the-feature-branch-workflow-works)
+4. [Forking Workflow](#forking-workflow)
+    - [How The Forking Workflow Works](#how-the-forking-workflow-works)
+5. [Additional Information Resources](#additional-information-resources)  
 
 {:toc}
 
